@@ -120,3 +120,15 @@ docker run -it --rm \
  # Getting Started with n8n workflows
 This guide will show you how to construct a workflow in n8n,
 link - https://docs.n8n.io/advanced-ai/intro-tutorial/
+
+
+## Note: for integrating the Ollama
+for connecting ollama chat model change the Base URL to  `http://host.docker.internal:11434`
+for more details refer this [link](https://docs.n8n.io/integrations/builtin/app-nodes/ollama/)
+
+example:
+AI Agent using gemini - [link](https://docs.n8n.io/integrations/builtin/app-nodes/gemini/)
+
+AI Agent using Ollama - [link](https://docs.n8n.io/integrations/builtin/app-nodes/ollama/)
+
+refer images
