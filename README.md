@@ -128,7 +128,11 @@ for more details refer this [link](https://docs.n8n.io/integrations/builtin/app-
 
 example:
 AI Agent using gemini - [link](https://docs.n8n.io/integrations/builtin/app-nodes/gemini/)
+<img width="1437" height="740" alt="AI Agent101" src="https://github.com/user-attachments/assets/85058199-7570-4fdc-ad4b-0a20cc0ce7c6" />
+
 
 AI Agent using Ollama - [link](https://docs.n8n.io/integrations/builtin/app-nodes/ollama/)
+
+<img width="1422" height="747" alt="Local Ollama Agent 101" src="https://github.com/user-attachments/assets/a9da56e2-46fb-4c9b-8f1a-cf68b1091bf0" />
 
 refer images
